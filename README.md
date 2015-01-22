@@ -65,4 +65,4 @@ A curated list of awesome code schools.
 
 # Contributing
 
-This is a living document so contributions are very welcome. Simply open [README.md](https://github.com/cfj/awesome-code-schools.js/blob/master/README.md), click the pencil icon, make your changes, and hit *Propose file change*. Just please follow the guidelines in [CONTRIBUTING.md](https://github.com/cfj/awesome-code-schools.js/blob/master/CONTRIBUTING.md) to make sure your pull request gets accepted.
+This is a living document so contributions are very welcome. Simply open [README.md](https://github.com/cfj/awesome-code-schools/blob/master/README.md), click the pencil icon, make your changes, and hit *Propose file change*. Just please follow the guidelines in [CONTRIBUTING.md](https://github.com/cfj/awesome-code-schools/blob/master/CONTRIBUTING.md) to make sure your pull request gets accepted.
