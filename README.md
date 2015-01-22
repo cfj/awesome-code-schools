@@ -1,6 +1,8 @@
 # Awesome Code Schools
 
-## Interactive)
+A curated list of awesome code schools.
+
+## Interactive
 - [Code Avengers](http://www.codeavengers.com)
 - [Codecademy](http://www.codecademy.com)
 - [CodeCombat](http://codecombat.com)
@@ -8,8 +10,8 @@
 - [Code School](https://www.codeschool.com)
 - [exercism.io](http://exercism.io)
 - [freeCodeCamp](http://www.freecodecamp.com)
-- [Khan Academy - Computer programming](https://www.khanacademy.org/computing/cs))
-- [Learn JS](http://www.learn-js.org))
+- [Khan Academy - Computer programming](https://www.khanacademy.org/computing/cs)
+- [Learn JS](http://www.learn-js.org)
 - [Programmr](http://www.programmr.com)
 - [SQLZOO](http://sqlzoo.net)
 - [Treehouse](http://teamtreehouse.com)
@@ -60,3 +62,7 @@
 
 ## Workshops
 - [Nodeschool](http://nodeschool.io/)
+
+# Contributing
+
+This is a living document so contributions are very welcome. Simply open [README.md](https://github.com/cfj/awesome-code-schools.js/blob/master/README.md), click the pencil icon, make your changes, and hit *Propose file change*. Just please follow the guidelines in [CONTRIBUTING.md](https://github.com/cfj/awesome-code-schools.js/blob/master/CONTRIBUTING.md) to make sure your pull request gets accepted.
