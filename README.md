@@ -13,9 +13,9 @@ A curated list of awesome code schools.
 - [Khan Academy - Computer programming](https://www.khanacademy.org/computing/cs)
 - [Learn JS](http://www.learn-js.org)
 - [Programmr](http://www.programmr.com)
+- [Silent Teacher](http://www.toxicode.fr/learn)
 - [SQLZOO](http://sqlzoo.net)
 - [Treehouse](http://teamtreehouse.com)
-- [Silent Teacher](http://www.toxicode.fr/learn)
 
 ## Screencasts
 - [CSS-Tricks](http://css-tricks.com/video-screencasts)
@@ -38,8 +38,8 @@ A curated list of awesome code schools.
 - [Pluralsight](http://www.pluralsight.com)
 - [RailsCasts](http://railscasts.com)
 - [Upcase](https://upcase.com)
-- [WatchMeCode](https://sub.watchmecode.net)
 - [Tuts+](http://tutsplus.com)
+- [WatchMeCode](https://sub.watchmecode.net)
 - [Web Dev Break](http://www.webdevbreak.com)
 - [WintellectNOW](https://www.wintellectnow.com)
 
@@ -51,8 +51,8 @@ A curated list of awesome code schools.
 - [DevPoint Labs](http://www.devpointlabs.com)
 - [Fullstack Academy](http://www.fullstackacademy.com)
 - [General Assembly](https://generalassemb.ly)
-- [Hacker School](https://www.hackerschool.com)
 - [Hack Reactor](http://www.hackreactor.com)
+- [Hacker School](https://www.hackerschool.com)
 - [MakerSquare](http://www.makersquare.com)
 - [The Starter League](http://www.starterleague.com)
 
