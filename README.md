@@ -53,6 +53,7 @@ A curated list of awesome code schools.
 - [General Assembly](https://generalassemb.ly)
 - [Hack Reactor](http://www.hackreactor.com)
 - [Hacker School](https://www.hackerschool.com)
+- [The Iron Yard](http://theironyard.com/)
 - [MakerSquare](http://www.makersquare.com)
 - [The Starter League](http://www.starterleague.com)
 
