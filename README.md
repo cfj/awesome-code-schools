@@ -18,14 +18,14 @@ A curated list of awesome code schools.
 - [Treehouse](http://teamtreehouse.com) - HTML, CSS, JavaScript, Python, Ruby, PHP, WordPress, iOS, Android, Python
 
 ## Screencasts
-- [CSS-Tricks](http://css-tricks.com/video-screencasts)
-- [egghead.io](https://egghead.io)
-- [DevCasts](http://www.devcasts.io)
-- [Destroy All Software](https://www.destroyallsoftware.com/screencasts)
-- [deveo.tv](https://deveo.tv)
-- [embercasts](http://www.embercasts.com)
-- [EventedMind](https://www.eventedmind.com)
-- [Frontend Masters](http://frontendmasters.com)
+- [CSS-Tricks](http://css-tricks.com/video-screencasts)- CSS, JavaScript, dev tools, various other web development related things
+- [egghead.io](https://egghead.io) - AngularJS, React, D3.js, ECMAscript 6
+- [DevCasts](http://www.devcasts.io) - Django, Go, Java, jQuery, NodeJS, PHP, Ruby-On-Rails, and much more
+- [Destroy All Software](https://www.destroyallsoftware.com/screencasts) - Unix, Ruby, TDD, Git, Vim
+- [deveo.tv](https://deveo.tv) - D3.js
+- [embercasts](http://www.embercasts.com) - Ember.js
+- [EventedMind](https://www.eventedmind.com) - Meteor, NodeJS
+- [Frontend Masters](http://frontendmasters.com) - JavaScript, HTML5, CSS3, AngularJS, responsive design, Backbone.js
 - [GoDjango](https://godjango.com)
 - [GoRails](https://gorails.com)
 - [laracasts](https://laracasts.com)
