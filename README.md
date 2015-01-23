@@ -3,19 +3,19 @@
 A curated list of awesome code schools.
 
 ## Interactive
-- [Code Avengers](http://www.codeavengers.com)
-- [Codecademy](http://www.codecademy.com)
+- [Code Avengers](http://www.codeavengers.com) - HTML, CSS, JavaScript
+- [Codecademy](http://www.codecademy.com) - HTML, CSS, JavaScript, jQuery, Python, Ruby, PHP
 - [CodeCombat](http://codecombat.com)
-- [CodeHS](https://codehs.com)
-- [Code School](https://www.codeschool.com)
-- [exercism.io](http://exercism.io)
-- [freeCodeCamp](http://www.freecodecamp.com)
-- [Khan Academy - Computer programming](https://www.khanacademy.org/computing/cs)
-- [Learn JS](http://www.learn-js.org)
+- [CodeHS](https://codehs.com) - Game design, computer science, HTML, CSS, JavaScript, jQuery, Java
+- [Code School](https://www.codeschool.com) - HTML, CSS, JavaScript, Ruby, iOS, Git
+- [exercism.io](http://exercism.io) - Ruby
+- [freeCodeCamp](http://www.freecodecamp.com) - HTML5, CSS3, JavaScript, databases, DevTools, Node.js, Angular.js, Agile
+- [Khan Academy - Computer programming](https://www.khanacademy.org/computing/cs)- HTML, CSS, JavaScript, ProcessingJS
+- [Learn JS](http://www.learn-js.org) - JavaScript
 - [Programmr](http://www.programmr.com)
-- [Silent Teacher](http://www.toxicode.fr/learn)
-- [SQLZOO](http://sqlzoo.net)
-- [Treehouse](http://teamtreehouse.com)
+- [Silent Teacher](http://www.toxicode.fr/learn) - JavaScript
+- [SQLZOO](http://sqlzoo.net) - SQL
+- [Treehouse](http://teamtreehouse.com) - HTML, CSS, JavaScript, Python, Ruby, PHP, WordPress, iOS, Android, Python
 
 ## Screencasts
 - [CSS-Tricks](http://css-tricks.com/video-screencasts)
