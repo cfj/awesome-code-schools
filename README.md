@@ -64,6 +64,7 @@ A curated list of awesome code schools.
 
 ## Workshops
 - [Nodeschool](http://nodeschool.io/)
+- [Boulder Digital Arts](http://www.boulderdigitalarts.com)
 
 # Contributing
 
