@@ -9,3 +9,4 @@ Please follow these guidelines when submitting a pull request.
 - The list should be in alphabetical order after you've made your addition
 - One pull request per added link
 - Make sure your link is not a duplicate
+- Under *Interactive* and *Screencasts*, add an asterisk next to the site's name if it contains paid content.
