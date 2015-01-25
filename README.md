@@ -48,19 +48,19 @@ A curated list of awesome code schools.
 \* Paid membership or purchase required for some or all content.
 
 ## Bootcamps
-- [Ada Developers Academy](http://adadevelopersacademy.org)
-- [App Academy](http://www.appacademy.io)
-- [Bloc](https://www.bloc.io)
-- [Dev Bootcamp](http://devbootcamp.com)
-- [DevMountain](http://www.devmountain.com)
-- [DevPoint Labs](http://www.devpointlabs.com)
-- [Fullstack Academy](http://www.fullstackacademy.com)
-- [General Assembly](https://generalassemb.ly)
-- [Hack Reactor](http://www.hackreactor.com)
-- [Hacker School](https://www.hackerschool.com)
-- [The Iron Yard](http://theironyard.com/)
-- [MakerSquare](http://www.makersquare.com)
-- [The Starter League](http://www.starterleague.com)
+- [Ada Developers Academy](http://adadevelopersacademy.org) - On location in Seattle. Year-long program. Women only. Ruby, Rails, JavaScript, HTML/CSS.
+- [App Academy](http://www.appacademy.io) - On location in San Francisco or New York City. Twelve-week program. Ruby on Rails, PostgreSQL, HTML5/CSS3, JavaScript, jQuery, Backbone.js.
+- [Bloc](https://www.bloc.io) - Online. 12 to 36 weeks. Full stack, frontend, Android, iOS, UX design.
+- [Dev Bootcamp](http://devbootcamp.com) - On location in Chicago, New York City or San Francisco. 19-week curriculum. Ruby, JavaScript, Ruby on Rails, common JavaScript libraries, SQL, HTML/CSS.
+- [DevMountain](http://www.devmountain.com) - On location in Salt Lake City or Provo, UT. Twelve weeks. HTML/CSS, JavaScript, Git, jQuery, AngularJS, or Xcode, Swift, Objective C.
+- [DevPoint Labs](http://www.devpointlabs.com) - On location in Salt Lake City. 11 week full-time program. HTML/CSS, JavaScript, Ruby on Rails. 
+- [Fullstack Academy](http://www.fullstackacademy.com) - On location in New York City. 13-week program.  Node.js/Express, JavaScript, AngularJS, HTML5, and CSS3.
+- [General Assembly](https://generalassemb.ly) - On location in London. 8–12 week, all-day, full-time programs. Full-stack web development.
+- [Hack Reactor](http://www.hackreactor.com) - On location in San Francisco. Twelve weeks. Focus on JavaScript. 
+- [Hacker School](https://www.hackerschool.com) - On location in New York. Three-month program. 
+- [The Iron Yard](http://theironyard.com/) - Multiple locations. Three-month courses. Web Design, Python Engineering, Mobile Engineering, Rails Engineering, Front End Engineering.
+- [MakerSquare](http://www.makersquare.com) - On location in Austin or San Francisco. JavaScript.
+- [The Starter League](http://www.starterleague.com) - On location in Chicago. Ten-week program. Ruby on Rails, JavaScript, HTML/CSS.
 
 ## Mentoring
 - [Thinkful](http://www.thinkful.com)
