@@ -52,6 +52,7 @@ A curated list of awesome code schools.
 - [App Academy](http://www.appacademy.io)
 - [Bloc](https://www.bloc.io)
 - [Dev Bootcamp](http://devbootcamp.com)
+- [DevMountain](http://www.devmountain.com)
 - [DevPoint Labs](http://www.devpointlabs.com)
 - [Fullstack Academy](http://www.fullstackacademy.com)
 - [General Assembly](https://generalassemb.ly)
@@ -67,6 +68,7 @@ A curated list of awesome code schools.
 
 ## Workshops
 - [Nodeschool](http://nodeschool.io/)
+- [Boulder Digital Arts](http://www.boulderdigitalarts.com)
 
 # Contributing
 
