@@ -63,8 +63,8 @@ A curated list of awesome code schools.
 - [The Starter League](http://www.starterleague.com) - On location in Chicago. Ten-week program. Ruby on Rails, JavaScript, HTML/CSS.
 
 ## Mentoring
-- [Thinkful](http://www.thinkful.com)
-- [Zyring](http://zyring.com)
+- [Thinkful](http://www.thinkful.com) - Skype mentoring. Rails, Node.js, iOS/Swift, Python, AngularJS, Android.
+- [Zyring](http://zyring.com) - Skype mentoring. Curriculum specifically curated based on skill level and interests.
 
 ## Workshops
 - [Nodeschool](http://nodeschool.io/)
