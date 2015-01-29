@@ -55,7 +55,7 @@ A curated list of awesome code schools.
 - [DevMountain](http://www.devmountain.com) - On location in Salt Lake City or Provo, UT. Twelve weeks. HTML/CSS, JavaScript, Git, jQuery, AngularJS, or Xcode, Swift, Objective C.
 - [DevPoint Labs](http://www.devpointlabs.com) - On location in Salt Lake City. 11 week full-time program. HTML/CSS, JavaScript, Ruby on Rails. 
 - [Fullstack Academy](http://www.fullstackacademy.com) - On location in New York City. 13-week program.  Node.js/Express, JavaScript, AngularJS, HTML5, and CSS3.
-- [General Assembly](https://generalassemb.ly) - On location in London. 8–12 week, all-day, full-time programs. Full-stack web development.
+- [General Assembly](https://generalassemb.ly) - Multiple locations. 8–12 week, all-day, full-time programs. Full-stack web development.
 - [Hack Reactor](http://www.hackreactor.com) - On location in San Francisco. Twelve weeks. Focus on JavaScript. 
 - [Hacker School](https://www.hackerschool.com) - On location in New York. Three-month program. 
 - [The Iron Yard](http://theironyard.com/) - Multiple locations. Three-month courses. Web Design, Python Engineering, Mobile Engineering, Rails Engineering, Front End Engineering.
