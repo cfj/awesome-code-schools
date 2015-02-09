@@ -63,6 +63,7 @@ A curated list of awesome code schools.
 - [The Iron Yard](http://theironyard.com/) - Multiple locations. Three-month courses. Web Design, Python Engineering, Mobile Engineering, Rails Engineering, Front End Engineering.
 - [MakerSquare](http://www.makersquare.com) - On location in Austin or San Francisco. JavaScript.
 - [The Starter League](http://www.starterleague.com) - On location in Chicago. Ten-week program. Ruby on Rails, JavaScript, HTML/CSS.
+- [Viking Code School](http://www.vikingcodeschool.com/) - Online. 16-week program. Ruby on Rails, JavaScript, HTML/CSS.
 
 ## Mentoring
 - [Thinkful](http://www.thinkful.com) - Skype mentoring. Rails, Node.js, iOS/Swift, Python, AngularJS, Android.
