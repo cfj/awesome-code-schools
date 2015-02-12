@@ -15,8 +15,8 @@ A curated list of awesome code schools.
 - [Programmr](http://www.programmr.com) - Android, AngularJS, Backbone.js, C++, C#, Java, PHP, Python, Ruby, SQL
 - [Silent Teacher](http://www.toxicode.fr/learn) - JavaScript
 - [SQLZOO](http://sqlzoo.net) - SQL
-- [Treehouse](http://teamtreehouse.com)* - HTML, CSS, JavaScript, Python, Ruby, PHP, WordPress, iOS, Android, Python
 - [Tagtree](http://tagtree.io/) - JavaScript, ES6 JavaScript
+- [Treehouse](http://teamtreehouse.com)* - HTML, CSS, JavaScript, Python, Ruby, PHP, WordPress, iOS, Android, Python
 
 \* Paid membership or purchase required for some or all content.
 
@@ -41,11 +41,11 @@ A curated list of awesome code schools.
 - [Pluralsight](http://www.pluralsight.com)* - ASP.NET MVC, C#, XAML, Visual Studio IDE, basically every Microsoft technology
 - [RailsCasts](http://railscasts.com)* - Ruby on Rails
 - [Upcase](https://upcase.com)* - Ruby on Rails, Vim, iOS, JavaScript, Haskell
+- [Tagtree](http://tagtree.io/) - Express, Node, Yeoman, Gulp, React, and more
 - [Tuts+](http://tutsplus.com)* - JavaScript, C#, PHP, Ruby
 - [WatchMeCode](https://sub.watchmecode.net)* - JavaScript, Express.js, Mongoose.js, Node.js
 - [Web Dev Break](http://www.webdevbreak.com) - HTML, CSS, JavaScript, security, accessibility
 - [WintellectNOW](https://www.wintellectnow.com)* - C#, Visual Basic, Visual Studio IDE, the MEAN stack, lots of Microsoft tech
-- [Tagtree](http://tagtree.io/) - Express, Node, Yeoman, Gulp, React, and more
 
 \* Paid membership or purchase required for some or all content.
 
