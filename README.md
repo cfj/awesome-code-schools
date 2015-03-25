@@ -60,7 +60,6 @@ A curated list of awesome code schools.
 - [Fullstack Academy](http://www.fullstackacademy.com) - On location in New York City. 13-week program.  Node.js/Express, JavaScript, AngularJS, HTML5, and CSS3.
 - [General Assembly](https://generalassemb.ly) - Multiple locations. 8–12 week, all-day, full-time programs. Full-stack web development.
 - [Hack Reactor](http://www.hackreactor.com) - On location in San Francisco. Twelve weeks. Focus on JavaScript. 
-- [Hacker School](https://www.hackerschool.com) - On location in New York. Three-month program. 
 - [The Iron Yard](http://theironyard.com/) - Multiple locations. Three-month courses. Web Design, Python Engineering, Mobile Engineering, Rails Engineering, Front End Engineering.
 - [MakerSquare](http://www.makersquare.com) - On location in Austin or San Francisco. JavaScript.
 - [The Starter League](http://www.starterleague.com) - On location in Chicago. Ten-week program. Ruby on Rails, JavaScript, HTML/CSS.
@@ -69,6 +68,9 @@ A curated list of awesome code schools.
 ## Mentoring
 - [Thinkful](http://www.thinkful.com) - Skype mentoring. Rails, Node.js, iOS/Swift, Python, AngularJS, Android.
 - [Zyring](http://zyring.com) - Skype mentoring. Curriculum specifically curated based on skill level and interests.
+
+## Retreats
+- [The Recurse Center](https://www.recurse.com/) - On location in New York. Three-month program. 
 
 ## Workshops
 - [Nodeschool](http://nodeschool.io/)
