@@ -52,6 +52,7 @@ A curated list of awesome code schools.
 
 ## Bootcamps
 - [Ada Developers Academy](http://adadevelopersacademy.org) - On location in Seattle. Year-long program. Women only. Ruby, Rails, JavaScript, HTML/CSS.
+- [ALPHA Camp](https://www.alphacamp.co) - On location in Taipei. 10 week, all-day, full-time programs. Business Development, Marketing, Mobile Development, and Web Design.
 - [App Academy](http://www.appacademy.io) - On location in San Francisco or New York City. Twelve-week program. Ruby on Rails, PostgreSQL, HTML5/CSS3, JavaScript, jQuery, Backbone.js.
 - [Bloc](https://www.bloc.io) - Online. 12 to 36 weeks. Full stack, frontend, Android, iOS, UX design.
 - [Dev Bootcamp](http://devbootcamp.com) - On location in Chicago, New York City or San Francisco. 19-week curriculum. Ruby, JavaScript, Ruby on Rails, common JavaScript libraries, SQL, HTML/CSS.
