@@ -64,6 +64,7 @@ A curated list of awesome code schools.
 - [MakerSquare](http://www.makersquare.com) - On location in Austin or San Francisco. JavaScript.
 - [The Starter League](http://www.starterleague.com) - On location in Chicago. Ten-week program. Ruby on Rails, JavaScript, HTML/CSS.
 - [Viking Code School](http://www.vikingcodeschool.com/) - Online. 16-week program. Ruby on Rails, JavaScript, HTML/CSS.
+- [ALPHA Camp](https://www.alphacamp.co) - On location in Taipei. 10 week, all-day, full-time programs. Business Development, Marketing, Mobile Development, and Web Design.
 
 ## Mentoring
 - [Thinkful](http://www.thinkful.com) - Skype mentoring. Rails, Node.js, iOS/Swift, Python, AngularJS, Android.
